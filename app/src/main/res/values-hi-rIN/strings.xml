@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block2_List</string>
+    <string name="animalsList" translatable="false">" एक जानवर चुनें"</string>
+    <string name="dog">" कुत्ता"</string>
+    <string name="cat">" बिल्ली"</string>
+    <string name="pig">" सुअर "</string>
+    <string name="horse">घोड़ा</string>
+    <string name="toastMessage">" आप चुनते हैं"</string>
+</resources>
